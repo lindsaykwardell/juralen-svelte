@@ -1,0 +1,1 @@
+{"version":3,"file":"Forest.js","sourceRoot":"","sources":["../../../src/Cell/Terrain/Forest.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;AAAA,8CAAuC;AAEvC;IAAoC,0BAAI;IACtC,gBAAY,CAAS,EAAE,CAAS;QAAhC,YACE,kBAAM,CAAC,EAAE,CAAC,CAAC,SAGZ;QAFC,KAAI,CAAC,OAAO,GAAG,cAAO,CAAC,MAAM,CAAA;QAC7B,KAAI,CAAC,QAAQ,GAAG,CAAC,CAAA;;IACnB,CAAC;IACH,aAAC;AAAD,CAAC,AAND,CAAoC,cAAI,GAMvC"}
